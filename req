@@ -1,0 +1,16 @@
+Some important tasks in day to day life:
+
+1. Json Output (Function calling is subset of it): JSON in -> JSON out
+2. OCR (invoice OCR, Doc OCR etc)
+3. Object Detection
+4. Image captioning
+5. Image classification (very easy task)
+6. Text to Knowledge Graph
+7. Segmentation
+8. Video Analysis
+9. Document analysis
+10. Multi modal retrieval
+
+
+From the above set of tasks, some of them will be useful by language models, some of them can be done by VLMs, and some of them can be done by Normal CNN based models. But question is,
+if we take one single VLM, can we make it to do almost all the tasks present here just with training some bunch of LoRAs? And the max base model size being 7B.
